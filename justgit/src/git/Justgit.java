@@ -22,6 +22,7 @@ public class Justgit {
 		1) 우클릭=> team => share => repository 선택 후 finish
 		2) 우클릭=> team => add to index 누르면 "?" => * 로 바뀐다.
 		3) 우클릭=> team => commit(ctrl+#)
+		4) 커밋만 하면 (Commit Message 작성해야 커밋 가능) github에 올라가지 않는다. (push 까지 해줘야 한다.)
 	 */
 
 
